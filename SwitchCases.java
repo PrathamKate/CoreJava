@@ -33,6 +33,8 @@ public class SwitchCases {
 		case 7:
 			System.out.println("Its Monday Today");
 			break;
+		default:
+			System.out.println("Ivalid");		
 		}
 
 	}
