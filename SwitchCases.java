@@ -34,7 +34,7 @@ public class SwitchCases {
 			System.out.println("Its Monday Today");
 			break;
 		default:
-			System.out.println("Ivalid");		
+			System.out.println("Invalid");		
 		}
 
 	}
